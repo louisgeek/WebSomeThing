@@ -2,7 +2,7 @@
 
 
 ```
-<script src="/js/LouisBrowser.js" type="text/javascript"></script>
+<script src="https://raw.githubusercontent.com/louisgeek/WebSomeThing/master/LouisBrowser.js" type="text/javascript"></script>
 <!--初次加载先加载一个-->
 <script src="http://libs.baidu.com/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 <script type="text/javascript">
